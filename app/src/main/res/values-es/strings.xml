@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App de Libros</string>
+
+    <!-- Activity 1 - MainActivity -->
+    <string name="main_title">Información del Libro</string>
+    <string name="label_book_title">Título del Libro</string>
+    <string name="hint_book_title">Ingrese el título del libro</string>
+    <string name="label_author">Autor</string>
+    <string name="hint_author">Ingrese el nombre del autor</string>
+    <string name="label_year">Año</string>
+    <string name="hint_year">Ingrese el año de publicación</string>
+    <string name="btn_submit">Enviar Información del Libro</string>
+    <string name="error_empty_fields">Por favor complete todos los campos</string>
+
+    <!-- Activity 2 - SecondActivity -->
+    <string name="second_title">Detalles del Libro</string>
+    <string name="display_title">Título: %s</string>
+    <string name="display_author">Autor: %s</string>
+    <string name="display_year">Año: %s</string>
+    <string name="btn_take_photo">Tomar Foto del Libro</string>
+    <string name="btn_next">Siguiente Actividad</string>
+    <string name="error_no_camera">No se encontró aplicación de cámara</string>
+    <string name="photo_description">Foto del libro</string>
+
+    <!-- Activity 3 - ThirdActivity -->
+    <string name="third_title">Tercera Actividad - Intents Comunes</string>
+    <string name="label_phone_dialer">Marcador Telefónico</string>
+    <string name="hint_phone">Ingrese número de teléfono</string>
+    <string name="btn_dial">Marcar Número</string>
+    <string name="label_map">Ver Ubicación en Mapa</string>
+    <string name="hint_location">Ingrese ubicación o dirección</string>
+    <string name="btn_view_map">Ver en Mapa</string>
+    <string name="error_empty_phone">Por favor ingrese un número de teléfono</string>
+    <string name="error_empty_location">Por favor ingrese una ubicación</string>
+    <string name="error_no_map">No se encontró aplicación de mapas</string>
+</resources>

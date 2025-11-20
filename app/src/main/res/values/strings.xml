@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book App</string>
+
+    <!-- Activity 1 - MainActivity -->
+    <string name="main_title">Book Information</string>
+    <string name="label_book_title">Book Title</string>
+    <string name="hint_book_title">Enter book title</string>
+    <string name="label_author">Author</string>
+    <string name="hint_author">Enter author name</string>
+    <string name="label_year">Year</string>
+    <string name="hint_year">Enter publication year</string>
+    <string name="btn_submit">Submit Book Info</string>
+    <string name="error_empty_fields">Please fill in all fields</string>
+
+    <!-- Activity 2 - SecondActivity -->
+    <string name="second_title">Book Details</string>
+    <string name="display_title">Title: %s</string>
+    <string name="display_author">Author: %s</string>
+    <string name="display_year">Year: %s</string>
+    <string name="btn_take_photo">Take Photo of Book</string>
+    <string name="btn_next">Next Activity</string>
+    <string name="error_no_camera">No camera app found</string>
+    <string name="photo_description">Book photo</string>
+
+    <!-- Activity 3 - ThirdActivity -->
+    <string name="third_title">Third Activity - Common Intents</string>
+    <string name="label_phone_dialer">Phone Dialer</string>
+    <string name="hint_phone">Enter phone number</string>
+    <string name="btn_dial">Dial Phone Number</string>
+    <string name="label_map">View Location on Map</string>
+    <string name="hint_location">Enter location or address</string>
+    <string name="btn_view_map">View on Map</string>
+    <string name="error_empty_phone">Please enter a phone number</string>
+    <string name="error_empty_location">Please enter a location</string>
+    <string name="error_no_map">No map application found</string>
+</resources>
